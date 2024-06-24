@@ -1,0 +1,5 @@
+{
+    "watch": ["./scss/*.scss"],
+    "ext": "js,scss",
+    "exec": "node index.js"
+}
